@@ -2,11 +2,10 @@
 
 <# Tendo como dados de entrada a altura e o sexo de uma pessoa
 (1 - masculino ou 2 feminino), contrua um algoritmo que calcule
-seu peso ideal, utilizando as seguintes fórmulas:
+seu peso ideal, utilizando as seguintes fórmulas: 
 
 Masculino: (72.7 * altura) - 58
 Feminino:  (62.1 * altura) - 44.7
-
 #>
 
 # Variáveis
