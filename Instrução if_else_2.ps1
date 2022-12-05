@@ -1,4 +1,4 @@
-# Segundo problema! #
+# Problema 2 #
 
 <# Desenvolva um algotimo para ler dois valores(considere que não serão valores iguais)
 e escrevê-los em ordem crescente. #>
