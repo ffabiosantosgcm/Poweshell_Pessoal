@@ -1,4 +1,4 @@
-# Terceiro problema! #
+# Problema 3 #
 
 <# Tendo como dados de entrada a altura e o sexo de uma pessoa
 (1 - masculino ou 2 feminino), contrua um algoritmo que calcule
