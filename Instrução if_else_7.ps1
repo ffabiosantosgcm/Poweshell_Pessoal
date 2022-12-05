@@ -6,11 +6,11 @@ de renda de acordo com a tabela progressiva abaixo
 
 Base de cálculo anual em R$       Alíquota %
 
-Até 22.847,76                         -
-De 22.847,77 até 33.919,80            7,5
-De 33.919,81 até 45.012,60            15,0
-De 45.012,61 até 55.976,16            22,5
-Acima de 55.976,16                    27,5
+Até 22.847,76                              -
+De 22.847,77 até 33.919,80                7,5
+De 33.919,81 até 45.012,60                15,0
+De 45.012,61 até 55.976,16                22,5
+Acima de 55.976,16                        27,5
 
 #>
 
