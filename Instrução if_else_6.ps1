@@ -1,4 +1,4 @@
-# Quarto problema! #
+# Problema 6 #
 
 <# A ingestão de bebidas acólicas em quantidades excessivas pode diminuir o nível
 de açucar no sangue, podendo provocar convulsões, perda de consciência, lesão cerebral permanente
