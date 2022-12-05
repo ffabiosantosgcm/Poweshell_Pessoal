@@ -1,4 +1,4 @@
-# Primeiro problema! #
+# Problema 1 #
 
 <# Desenvolva um algoritmo para ler dois valores (considere que não serão lidos valores iguais)
 e escrever o maior deles. #>
