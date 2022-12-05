@@ -9,6 +9,8 @@ Feminino:  (62.1 * altura) - 44.7
 
 #>
 
+# Variáveis
+
 [double]$altura = Read-Host "Digite a altura da pessoa"
 [int]$sexo = Read-Host "Escolha [1] para o sexo Masculino ou escolha [2] para o sexo Feminino"
 
