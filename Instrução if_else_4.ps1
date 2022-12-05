@@ -1,4 +1,4 @@
-# Quarto problema! #
+# Problema 4 #
 
 <# Faça um algotimo para calcular a m´dia aritmética entre duas notas
 de um aluno e mostrar sua situação, que pode ser aprovado (se a médiafor maior ou igual a 7.0)
