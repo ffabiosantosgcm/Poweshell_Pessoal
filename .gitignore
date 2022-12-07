@@ -3,5 +3,6 @@ dir_to_ignore/Temp/*
 login.ps1
 operadores.ps1
 comandos.ps1
-For
+while
+Foreach-Object
 
