@@ -12,8 +12,8 @@ ou reprovado (caso a média seja inferior a 7.0) #>
 Write-Output ("Média", $media)
 
 
-if ($media -ge 7) {Write-Output ("Aprovado")}
+if ($media -ge 7) { Write-Output ("Aprovado") }
 
 else
 
-{Write-Output ("Reprovado")}
+{ Write-Output ("Reprovado") }

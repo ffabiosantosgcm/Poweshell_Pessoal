@@ -10,8 +10,7 @@
 #  103 Técnico    30%
 #  104 Outros     40%
 
-function show-menu
-{
+function show-menu {
   param
   ([string]$TItulo = 'Tabela'
   )
@@ -30,13 +29,12 @@ show-menu -Titulo 'Tabela'
 [double]$salario_atual = Read-Host "Digite o salário atual"
 [int]$codigocargo = Read-Host "Digite o código do cargo"
 
-$resultado = switch ( $codigocargo )
-{
-101 {([double]$novosalario = 1.10 * [double]$salario_atual)}
-102 {([double]$novosalario = 1.20 * [double]$salario_atual)}
-103 {([double]$novosalario = 1.30 * [double]$salario_atual)}
-104 {([double]$novosalario = 1.40 * [double]$salario_atual)}
-default { 'código não encontrado'}
+$resultado = switch ( $codigocargo ) {
+  101 { ([double]$novosalario = 1.10 * [double]$salario_atual) }
+  102 { ([double]$novosalario = 1.20 * [double]$salario_atual) }
+  103 { ([double]$novosalario = 1.30 * [double]$salario_atual) }
+  104 { ([double]$novosalario = 1.40 * [double]$salario_atual) }
+  default { 'código não encontrado' }
 }
 Write-Host $resultado
 

@@ -8,11 +8,11 @@ e escrever o maior deles. #>
 
 if ($cd -eq $de) # primeiro if
 
-{ Write-Output "Números são iguas!  Por favor, digite números diferentes para prosseguir."}
+{ Write-Output "Números são iguas!  Por favor, digite números diferentes para prosseguir." }
 
 else {
   
-    if ($cd -gt $de) {Write-Host "$cd é maior"} # Segundo if
+    if ($cd -gt $de) { Write-Host "$cd é maior" } # Segundo if
     
     else {
         Write-Host "$de é maior"

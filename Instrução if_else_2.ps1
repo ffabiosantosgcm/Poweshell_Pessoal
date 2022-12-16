@@ -12,10 +12,10 @@ if ($cd -eq $de) # primeiro if
 
 else {
   
-    if ($cd -gt $de) {Write-Host ("$de ,$cd")} # Segundo if
+    if ($cd -gt $de) { Write-Host ("$de ,$cd") } # Segundo if
     
     else {
-        Write-Host "("$de ,$cd")"
+        Write-Host "("$de , $cd")"
     }
     
 }

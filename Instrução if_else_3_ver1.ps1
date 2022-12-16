@@ -16,8 +16,8 @@ Feminino:  (62.1 * altura) - 44.7
 
 if ($sexo -eq 1) # primeiro if
 
-{ Write-Output "Seu peso ideal é." ($pesoideal = 72.7 * $altura - 58)}
+{ Write-Output "Seu peso ideal é." ($pesoideal = 72.7 * $altura - 58) }
 
 elseif ($sexo -eq 2)
 
-{Write-Host "Seu peso ideal é" ($pesoideal = 62.1 * $altura - 44.7)}
+{ Write-Host "Seu peso ideal é" ($pesoideal = 62.1 * $altura - 44.7) }
